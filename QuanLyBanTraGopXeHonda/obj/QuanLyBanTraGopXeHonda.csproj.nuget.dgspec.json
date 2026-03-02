@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\lqqlgt1\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {}
+    "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {}
   },
   "projects": {
-    "C:\\lqqlgt1\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {
+    "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\lqqlgt1\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
+        "projectUniqueName": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
         "projectName": "QuanLyBanTraGopXeHonda",
-        "projectPath": "C:\\lqqlgt1\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\lqqlgt1\\QuanLyBanTraGopXeHonda\\obj\\",
+        "projectPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,12 +44,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.23, )"
@@ -84,7 +88,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

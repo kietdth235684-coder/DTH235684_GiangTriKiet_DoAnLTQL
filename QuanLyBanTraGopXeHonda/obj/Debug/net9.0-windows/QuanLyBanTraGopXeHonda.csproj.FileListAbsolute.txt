@@ -122,3 +122,5 @@ C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\re
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmNhanVien.resources
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BCrypt.Net-Next.dll
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
+C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
+C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.sourcelink.json

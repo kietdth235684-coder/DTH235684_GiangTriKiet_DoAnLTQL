@@ -4,7 +4,13 @@
     <Compile Update="Forms\frmHangXe.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\frmLoaiXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
