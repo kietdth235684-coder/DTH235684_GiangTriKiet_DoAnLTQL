@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using QuanLyBanTraGopXeHonda.Data;
+using QuanLyBanTraGopXeHonda.Data; 
 
 namespace QuanLyBanTraGopXeHonda.Forms
 {
@@ -33,9 +33,9 @@ namespace QuanLyBanTraGopXeHonda.Forms
         private void frmHangXe_Load(object sender, EventArgs e)
         {
             BatTatChucNang(false);
-            var lx = context.LoaiXes.ToList();
+            var hx = context.HangXes.ToList();
             BindingSource bindingSource = new BindingSource();
-            bindingSource.DataSource = lx;
+            bindingSource.DataSource = hx;
 
             dataGridView1.DataSource = bindingSource;
 
@@ -52,10 +52,10 @@ namespace QuanLyBanTraGopXeHonda.Forms
         }
         private void HienThiDuLieuLenControls()
         {
-            if (dataGridView1.CurrentRow != null && dataGridView1.CurrentRow.DataBoundItem is LoaiXe lx)
+            if (dataGridView1.CurrentRow != null && dataGridView1.CurrentRow.DataBoundItem is HangXe hx)
             {
-                txtTenHangXe.Text = lx.TenLX;
-                id = lx.ID;
+                txtTenHangXe.Text = hx.TenHX;
+                id = hx.ID;
             }
         }
 
@@ -75,12 +75,12 @@ namespace QuanLyBanTraGopXeHonda.Forms
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            if (dataGridView1.CurrentRow != null && dataGridView1.CurrentRow.DataBoundItem is LoaiXe selected)
+            if (dataGridView1.CurrentRow != null && dataGridView1.CurrentRow.DataBoundItem is HangXe selected)
             {
-                var result = MessageBox.Show($"Bạn có chắc chắn muốn xóa hãng xe '{selected.TenLX}'?", "Xác nhận xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                var result = MessageBox.Show($"Bạn có chắc chắn muốn xóa hãng xe '{selected.TenHX}'?", "Xác nhận xóa", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
                 if (result == DialogResult.Yes)
                 {
-                    context.LoaiXes.Remove(selected);
+                    context.HangXes.Remove(selected);
                     context.SaveChanges();
                     frmHangXe_Load(sender, e); // Tải lại dữ liệu sau khi xóa
                 }
@@ -96,19 +96,19 @@ namespace QuanLyBanTraGopXeHonda.Forms
             }
             if (xuLyThem)
             {
-                LoaiXe newLoaiXe = new LoaiXe
+                HangXe newHangXe = new HangXe
                 {
-                    TenLX = txtTenHangXe.Text
+                    TenHX = txtTenHangXe.Text
                 };
-                context.LoaiXes.Add(newLoaiXe);
+                context.HangXes.Add(newHangXe);
             }
             else
             {
-                var existingLoaiXe = context.LoaiXes.Find(id);
-                if (existingLoaiXe != null)
+                var existingHangXe = context.HangXes.Find(id);
+                if (existingHangXe != null)
                 {
-                    existingLoaiXe.TenLX = txtTenHangXe.Text;
-                    context.LoaiXes.Update(existingLoaiXe);
+                    existingHangXe.TenHX = txtTenHangXe.Text;
+                    context.HangXes.Update(existingHangXe);
                 }
             }
             context.SaveChanges();

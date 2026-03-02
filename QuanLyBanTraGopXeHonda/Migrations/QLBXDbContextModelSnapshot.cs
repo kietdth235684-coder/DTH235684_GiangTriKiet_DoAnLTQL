@@ -197,26 +197,11 @@ namespace QuanLyBanTraGopXeHonda.Migrations
                     b.Property<int>("LoaiXeID")
                         .HasColumnType("int");
 
-                    b.Property<string>("MauSac")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("MoTa")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("NamSanXuat")
-                        .HasColumnType("int");
-
-                    b.Property<string>("SoKhung")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("SoLuong")
                         .HasColumnType("int");
-
-                    b.Property<string>("SoMay")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TenXe")
                         .IsRequired()
@@ -271,21 +256,21 @@ namespace QuanLyBanTraGopXeHonda.Migrations
 
             modelBuilder.Entity("QuanLyBanTraGopXeHonda.Data.Xe", b =>
                 {
-                    b.HasOne("QuanLyBanTraGopXeHonda.Data.HangXe", "HangXe")
+                    b.HasOne("QuanLyBanTraGopXeHonda.Data.HangXe", "HangXes")
                         .WithMany("Xe")
                         .HasForeignKey("HangXeID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("QuanLyBanTraGopXeHonda.Data.LoaiXe", "LoaiXe")
+                    b.HasOne("QuanLyBanTraGopXeHonda.Data.LoaiXe", "LoaiXes")
                         .WithMany("Xe")
                         .HasForeignKey("LoaiXeID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("HangXe");
+                    b.Navigation("HangXes");
 
-                    b.Navigation("LoaiXe");
+                    b.Navigation("LoaiXes");
                 });
 
             modelBuilder.Entity("QuanLyBanTraGopXeHonda.Data.HangXe", b =>

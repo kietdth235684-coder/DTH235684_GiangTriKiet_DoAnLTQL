@@ -187,7 +187,7 @@
             // tenHXDataGridViewTextBoxColumn
             // 
             tenHXDataGridViewTextBoxColumn.DataPropertyName = "TenHX";
-            tenHXDataGridViewTextBoxColumn.HeaderText = "TenHX";
+            tenHXDataGridViewTextBoxColumn.HeaderText = "Tên hãng xe";
             tenHXDataGridViewTextBoxColumn.MinimumWidth = 6;
             tenHXDataGridViewTextBoxColumn.Name = "tenHXDataGridViewTextBoxColumn";
             // 
@@ -222,8 +222,8 @@
         private Label label1;
         private GroupBox groupBox2;
         private DataGridView dataGridView1;
+        private BindingSource hangXeBindingSource;
         private DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tenHXDataGridViewTextBoxColumn;
-        private BindingSource hangXeBindingSource;
     }
 }

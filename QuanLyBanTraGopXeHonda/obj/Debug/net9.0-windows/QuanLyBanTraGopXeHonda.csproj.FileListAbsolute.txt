@@ -124,3 +124,4 @@ C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BC
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
 C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.sourcelink.json
+C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmSanPham.resources
