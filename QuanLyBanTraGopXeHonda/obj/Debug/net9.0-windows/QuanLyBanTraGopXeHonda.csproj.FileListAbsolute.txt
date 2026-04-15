@@ -1,127 +1,679 @@
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.exe
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll.config
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.deps.json
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.runtimeconfig.json
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Core.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Identity.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Humanizer.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ClientModel.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Convention.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Memory.Data.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.AssemblyReference.cache
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmLoaiXe.resources
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.GenerateResource.cache
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfoInputs.cache
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfo.cs
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.CoreCompileInputs.cache
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBa.23C930C3.Up2Date
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\refint\QuanLyBanTraGopXeHonda.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.genruntimeconfig.cache
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\ref\QuanLyBanTraGopXeHonda.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmNhanVien.resources
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BCrypt.Net-Next.dll
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.sourcelink.json
-C:\Dai Hoc\do an NET\DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmSanPham.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDangNhap.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong_ChiTiet.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmLoaiXe.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmMain.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmNhanVien.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmXe.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfo.cs
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.exe
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll.config
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.deps.json
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.runtimeconfig.json
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BCrypt.Net-Next.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBa.23C930C3.Up2Date
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\refint\QuanLyBanTraGopXeHonda.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.genruntimeconfig.cache
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\ref\QuanLyBanTraGopXeHonda.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Properties.Resources.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Security.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeXe.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeDoanhThu.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmInHoaDon.resources
+C:\Users\ACER\Downloads\DoAnLTQL_HoanThanh_Buoi06\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.exe
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll.config
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.deps.json
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.runtimeconfig.json
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BCrypt.Net-Next.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Security.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDangNhap.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong_ChiTiet.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmLoaiXe.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmMain.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmNhanVien.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmXe.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Properties.Resources.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmInHoaDon.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeDoanhThu.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeXe.resources
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBa.23C930C3.Up2Date
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\refint\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.genruntimeconfig.cache
+C:\Users\Admin\Downloads\DoAnLTQL_HoanTat\DoAnLTQL_Buoi05\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\ref\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.exe
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll.config
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.deps.json
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.runtimeconfig.json
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\BCrypt.Net-Next.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ClosedXML.Parser.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ExcelNumberFormat.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\RBush.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\SixLabors.Fonts.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Http.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.Security.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\System.ServiceModel.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\bin\Debug\net9.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDangNhap.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmDoiMatKhau.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHangXe.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmHopDong_ChiTiet.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.KhachHang.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmLoaiXe.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmMain.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmNhanVien.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Forms.frmXe.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Properties.Resources.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmInHoaDon.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeDoanhThu.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.Reports.frmThongKeXe.resources
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.AssemblyInfo.cs
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.sourcelink.json
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBa.23C930C3.Up2Date
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\refint\QuanLyBanTraGopXeHonda.dll
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.pdb
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\QuanLyBanTraGopXeHonda.genruntimeconfig.cache
+C:\Users\Admin\source\repos\kietdth235684-coder\DTH235684_GiangTriKiet_DoAnLTQL\QuanLyBanTraGopXeHonda\obj\Debug\net9.0-windows\ref\QuanLyBanTraGopXeHonda.dll

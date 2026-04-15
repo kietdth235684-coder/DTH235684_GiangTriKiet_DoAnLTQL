@@ -1,4 +1,4 @@
-﻿namespace QuanLyBanTraGopXeHonda.Forms
+namespace QuanLyBanTraGopXeHonda.Forms
 {
     partial class KhachHang
     {
@@ -88,7 +88,7 @@
             // 
             // txtCCCD
             // 
-            txtCCCD.Location = new Point(104, 95);
+            txtCCCD.Location = new Point(120, 95);
             txtCCCD.Name = "txtCCCD";
             txtCCCD.Size = new Size(360, 27);
             txtCCCD.TabIndex = 14;
@@ -110,6 +110,7 @@
             btnXuat.TabIndex = 12;
             btnXuat.Text = "Xuất";
             btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
             // 
             // btnNhap
             // 
@@ -120,6 +121,7 @@
             btnNhap.TabIndex = 11;
             btnNhap.Text = "Nhập";
             btnNhap.UseVisualStyleBackColor = true;
+            btnNhap.Click += btnNhap_Click;
             // 
             // btnTimKiem
             // 
@@ -140,6 +142,7 @@
             btnThoat.TabIndex = 9;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
+            btnThoat.Click += btnThoat_Click;
             // 
             // btnHuyBo
             // 
@@ -199,7 +202,7 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(252, 30);
+            label3.Location = new Point(265, 30);
             label3.Name = "label3";
             label3.Size = new Size(81, 20);
             label3.TabIndex = 4;
@@ -225,21 +228,21 @@
             // 
             // txtDienThoai
             // 
-            txtDienThoai.Location = new Point(339, 27);
+            txtDienThoai.Location = new Point(355, 27);
             txtDienThoai.Name = "txtDienThoai";
             txtDienThoai.Size = new Size(125, 27);
             txtDienThoai.TabIndex = 2;
             // 
             // txtDiaChi
             // 
-            txtDiaChi.Location = new Point(104, 62);
+            txtDiaChi.Location = new Point(120, 62);
             txtDiaChi.Name = "txtDiaChi";
             txtDiaChi.Size = new Size(360, 27);
             txtDiaChi.TabIndex = 1;
             // 
             // txtHoVaTen
             // 
-            txtHoVaTen.Location = new Point(104, 27);
+            txtHoVaTen.Location = new Point(120, 27);
             txtHoVaTen.Name = "txtHoVaTen";
             txtHoVaTen.Size = new Size(125, 27);
             txtHoVaTen.TabIndex = 0;
@@ -316,6 +319,7 @@
             Name = "KhachHang";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "frmKhachHang";
+            Load += frmKhachHang_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)fileSystemWatcher1).EndInit();

@@ -1,4 +1,4 @@
-﻿namespace QuanLyBanTraGopXeHonda.Forms
+namespace QuanLyBanTraGopXeHonda.Forms
 {
     partial class frmNhanVien
     {
@@ -95,7 +95,7 @@
             btnXoa.TabIndex = 2;
             btnXoa.Text = "Xóa";
             btnXoa.UseVisualStyleBackColor = true;
-            btnXoa.Click += btnSua_Click;
+            btnXoa.Click += btnXoa_Click;
             // 
             // btnLuu
             // 
@@ -125,6 +125,7 @@
             btnThoat.TabIndex = 5;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
+            btnThoat.Click += btnThoat_Click;
             // 
             // btnTimKiem
             // 
@@ -143,6 +144,7 @@
             btnNhap.TabIndex = 7;
             btnNhap.Text = "Nhập...";
             btnNhap.UseVisualStyleBackColor = true;
+            btnNhap.Click += btnNhap_Click;
             // 
             // btnXuat
             // 
@@ -152,6 +154,7 @@
             btnXuat.TabIndex = 8;
             btnXuat.Text = "Xuất...";
             btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
             // 
             // groupBox1
             // 
@@ -188,42 +191,42 @@
             // 
             cboQuyenHan.FormattingEnabled = true;
             cboQuyenHan.Items.AddRange(new object[] { "Quản lý", "Nhân viên" });
-            cboQuyenHan.Location = new Point(479, 100);
+            cboQuyenHan.Location = new Point(500, 100);
             cboQuyenHan.Name = "cboQuyenHan";
             cboQuyenHan.Size = new Size(162, 28);
             cboQuyenHan.TabIndex = 20;
             // 
             // txtMatKhau
             // 
-            txtMatKhau.Location = new Point(479, 65);
+            txtMatKhau.Location = new Point(500, 65);
             txtMatKhau.Name = "txtMatKhau";
             txtMatKhau.Size = new Size(162, 27);
             txtMatKhau.TabIndex = 19;
             // 
             // txtTenDangNhap
             // 
-            txtTenDangNhap.Location = new Point(479, 27);
+            txtTenDangNhap.Location = new Point(500, 27);
             txtTenDangNhap.Name = "txtTenDangNhap";
             txtTenDangNhap.Size = new Size(162, 27);
             txtTenDangNhap.TabIndex = 18;
             // 
             // txtDiaChi
             // 
-            txtDiaChi.Location = new Point(108, 98);
+            txtDiaChi.Location = new Point(130, 98);
             txtDiaChi.Name = "txtDiaChi";
             txtDiaChi.Size = new Size(203, 27);
             txtDiaChi.TabIndex = 17;
             // 
             // txtDienThoai
             // 
-            txtDienThoai.Location = new Point(108, 65);
+            txtDienThoai.Location = new Point(130, 65);
             txtDienThoai.Name = "txtDienThoai";
             txtDienThoai.Size = new Size(203, 27);
             txtDienThoai.TabIndex = 16;
             // 
             // txtHoVaTen
             // 
-            txtHoVaTen.Location = new Point(108, 30);
+            txtHoVaTen.Location = new Point(130, 30);
             txtHoVaTen.Name = "txtHoVaTen";
             txtHoVaTen.Size = new Size(203, 27);
             txtHoVaTen.TabIndex = 15;
@@ -231,7 +234,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(343, 100);
+            label6.Location = new Point(360, 100);
             label6.Name = "label6";
             label6.Size = new Size(102, 20);
             label6.TabIndex = 14;
@@ -240,7 +243,7 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(343, 65);
+            label5.Location = new Point(360, 65);
             label5.Name = "label5";
             label5.Size = new Size(93, 20);
             label5.TabIndex = 13;
@@ -249,7 +252,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(343, 30);
+            label4.Location = new Point(360, 30);
             label4.Name = "label4";
             label4.Size = new Size(130, 20);
             label4.TabIndex = 12;
@@ -291,12 +294,14 @@
             groupBox2.Size = new Size(985, 322);
             groupBox2.TabIndex = 10;
             groupBox2.TabStop = false;
-            groupBox2.Text = "Danh sách sinh viên";
+            groupBox2.Text = "Danh sách nhân viên";
             // 
             // dataGridView1
             // 
             dataGridView1.AllowUserToAddRows = false;
             dataGridView1.AllowUserToDeleteRows = false;
+            dataGridView1.AllowUserToResizeColumns = false;
+            dataGridView1.AllowUserToResizeRows = false;
             dataGridView1.AutoGenerateColumns = false;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -306,6 +311,7 @@
             dataGridView1.Location = new Point(3, 23);
             dataGridView1.MultiSelect = false;
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
             dataGridView1.RowHeadersVisible = false;
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(979, 296);
@@ -318,6 +324,7 @@
             iDDataGridViewTextBoxColumn.HeaderText = "ID";
             iDDataGridViewTextBoxColumn.MinimumWidth = 6;
             iDDataGridViewTextBoxColumn.Name = "iDDataGridViewTextBoxColumn";
+            iDDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // hoVaTenDataGridViewTextBoxColumn
             // 
@@ -325,6 +332,7 @@
             hoVaTenDataGridViewTextBoxColumn.HeaderText = "Họ và tên";
             hoVaTenDataGridViewTextBoxColumn.MinimumWidth = 6;
             hoVaTenDataGridViewTextBoxColumn.Name = "hoVaTenDataGridViewTextBoxColumn";
+            hoVaTenDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // dienThoaiDataGridViewTextBoxColumn
             // 
@@ -332,6 +340,7 @@
             dienThoaiDataGridViewTextBoxColumn.HeaderText = "Điện thoại";
             dienThoaiDataGridViewTextBoxColumn.MinimumWidth = 6;
             dienThoaiDataGridViewTextBoxColumn.Name = "dienThoaiDataGridViewTextBoxColumn";
+            dienThoaiDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // diaChiDataGridViewTextBoxColumn
             // 
@@ -339,6 +348,7 @@
             diaChiDataGridViewTextBoxColumn.HeaderText = "Địa chỉ";
             diaChiDataGridViewTextBoxColumn.MinimumWidth = 6;
             diaChiDataGridViewTextBoxColumn.Name = "diaChiDataGridViewTextBoxColumn";
+            diaChiDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // tenDangNhapDataGridViewTextBoxColumn
             // 
@@ -346,6 +356,7 @@
             tenDangNhapDataGridViewTextBoxColumn.HeaderText = "Tên đăng nhập";
             tenDangNhapDataGridViewTextBoxColumn.MinimumWidth = 6;
             tenDangNhapDataGridViewTextBoxColumn.Name = "tenDangNhapDataGridViewTextBoxColumn";
+            tenDangNhapDataGridViewTextBoxColumn.ReadOnly = true;
             // 
             // matKhauDataGridViewTextBoxColumn
             // 
@@ -353,6 +364,7 @@
             matKhauDataGridViewTextBoxColumn.HeaderText = "MatKhau";
             matKhauDataGridViewTextBoxColumn.MinimumWidth = 6;
             matKhauDataGridViewTextBoxColumn.Name = "matKhauDataGridViewTextBoxColumn";
+            matKhauDataGridViewTextBoxColumn.ReadOnly = true;
             matKhauDataGridViewTextBoxColumn.Visible = false;
             // 
             // quyenHanDataGridViewCheckBoxColumn
@@ -361,6 +373,7 @@
             quyenHanDataGridViewCheckBoxColumn.HeaderText = "Quyền hạn";
             quyenHanDataGridViewCheckBoxColumn.MinimumWidth = 6;
             quyenHanDataGridViewCheckBoxColumn.Name = "quyenHanDataGridViewCheckBoxColumn";
+            quyenHanDataGridViewCheckBoxColumn.ReadOnly = true;
             // 
             // nhanVienBindingSource
             // 
@@ -376,6 +389,7 @@
             Name = "frmNhanVien";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "frmNhanVien";
+            Activated += frmNhanVien_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -410,6 +424,7 @@
         private TextBox txtDiaChi;
         private TextBox txtDienThoai;
         private TextBox txtHoVaTen;
+        private ComboBox cboQuyenHan;
         private DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn hoVaTenDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn dienThoaiDataGridViewTextBoxColumn;
@@ -417,6 +432,5 @@
         private DataGridViewTextBoxColumn tenDangNhapDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn matKhauDataGridViewTextBoxColumn;
         private DataGridViewCheckBoxColumn quyenHanDataGridViewCheckBoxColumn;
-        private ComboBox cboQuyenHan;
     }
 }

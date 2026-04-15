@@ -1,7 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
   <ItemGroup>
+    <Compile Update="Forms\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmdoimatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\frmHangXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmHopDong_ChiTiet.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\frmKhachHang.cs">
@@ -10,11 +23,28 @@
     <Compile Update="Forms\frmLoaiXe.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\frmNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Forms\frmSanPham.cs">
+    <Compile Update="Forms\frmXe.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Reports\frmInHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\frmThongKeDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\frmThongKeXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Reports\QLBXDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 </Project>

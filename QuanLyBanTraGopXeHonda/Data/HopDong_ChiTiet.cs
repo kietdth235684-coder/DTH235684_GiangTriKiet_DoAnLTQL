@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,5 +19,18 @@ namespace QuanLyBanTraGopXeHonda.Data
         public virtual HopDong HopDong { get; set; } = null;
 
         public virtual Xe Xe { get; set; } = null;
+    }
+
+    [NotMapped]
+    public class DanhSachHopDong_ChiTiet
+    {
+        public int ID { get; set; }
+        public int HopDongID { get; set; }
+        public int XeID { get; set; }
+        public string TenXe { get; set; }
+        public DateTime NgayThanhToan { get; set; }
+        public int SoThangThanhToan { get; set; }
+        public decimal SoTienThanhToan { get; set; }
+        public decimal ThanhTien { get; set; }
     }
 }

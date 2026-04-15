@@ -37,12 +37,14 @@
             btnHuyBo = new Button();
             btnSua = new Button();
             btnThem = new Button();
+            btnNhap = new Button();
+            btnXuat = new Button();
             label1 = new Label();
             groupBox2 = new GroupBox();
             dataGridView1 = new DataGridView();
-            hangXeBindingSource = new BindingSource(components);
             iDDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
             tenHXDataGridViewTextBoxColumn = new DataGridViewTextBoxColumn();
+            hangXeBindingSource = new BindingSource(components);
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -53,7 +55,7 @@
             // 
             txtTenHangXe.Location = new Point(127, 42);
             txtTenHangXe.Name = "txtTenHangXe";
-            txtTenHangXe.Size = new Size(492, 27);
+            txtTenHangXe.Size = new Size(838, 27);
             txtTenHangXe.TabIndex = 0;
             // 
             // groupBox1
@@ -64,11 +66,13 @@
             groupBox1.Controls.Add(btnHuyBo);
             groupBox1.Controls.Add(btnSua);
             groupBox1.Controls.Add(btnThem);
+            groupBox1.Controls.Add(btnNhap);
+            groupBox1.Controls.Add(btnXuat);
             groupBox1.Controls.Add(label1);
             groupBox1.Controls.Add(txtTenHangXe);
-            groupBox1.Location = new Point(14, 12);
+            groupBox1.Location = new Point(-1, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(637, 142);
+            groupBox1.Size = new Size(985, 135);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "Thông Tin Hãng Xe";
@@ -77,7 +81,7 @@
             // btnLuu
             // 
             btnLuu.ForeColor = Color.Blue;
-            btnLuu.Location = new Point(324, 88);
+            btnLuu.Location = new Point(387, 88);
             btnLuu.Name = "btnLuu";
             btnLuu.Size = new Size(94, 29);
             btnLuu.TabIndex = 6;
@@ -88,7 +92,7 @@
             // btnXoa
             // 
             btnXoa.ForeColor = Color.Red;
-            btnXoa.Location = new Point(224, 88);
+            btnXoa.Location = new Point(266, 88);
             btnXoa.Name = "btnXoa";
             btnXoa.Size = new Size(94, 29);
             btnXoa.TabIndex = 5;
@@ -98,7 +102,7 @@
             // 
             // btnThoat
             // 
-            btnThoat.Location = new Point(524, 88);
+            btnThoat.Location = new Point(629, 88);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(94, 29);
             btnThoat.TabIndex = 8;
@@ -108,7 +112,7 @@
             // 
             // btnHuyBo
             // 
-            btnHuyBo.Location = new Point(424, 88);
+            btnHuyBo.Location = new Point(508, 88);
             btnHuyBo.Name = "btnHuyBo";
             btnHuyBo.Size = new Size(94, 29);
             btnHuyBo.TabIndex = 7;
@@ -118,7 +122,7 @@
             // 
             // btnSua
             // 
-            btnSua.Location = new Point(124, 88);
+            btnSua.Location = new Point(145, 88);
             btnSua.Name = "btnSua";
             btnSua.Size = new Size(94, 29);
             btnSua.TabIndex = 4;
@@ -136,6 +140,27 @@
             btnThem.UseVisualStyleBackColor = true;
             btnThem.Click += btnThem_Click;
             // 
+            // btnNhap
+            // 
+            btnNhap.ForeColor = Color.Purple;
+            btnNhap.Location = new Point(750, 88);
+            btnNhap.Name = "btnNhap";
+            btnNhap.Size = new Size(94, 29);
+            btnNhap.TabIndex = 9;
+            btnNhap.Text = "Nhập...";
+            btnNhap.UseVisualStyleBackColor = true;
+            btnNhap.Click += btnNhap_Click;
+            // 
+            // btnXuat
+            // 
+            btnXuat.Location = new Point(871, 88);
+            btnXuat.Name = "btnXuat";
+            btnXuat.Size = new Size(94, 29);
+            btnXuat.TabIndex = 10;
+            btnXuat.Text = "Xuất...";
+            btnXuat.UseVisualStyleBackColor = true;
+            btnXuat.Click += btnXuat_Click;
+            // 
             // label1
             // 
             label1.AutoSize = true;
@@ -148,9 +173,9 @@
             // groupBox2
             // 
             groupBox2.Controls.Add(dataGridView1);
-            groupBox2.Location = new Point(12, 160);
+            groupBox2.Location = new Point(-1, 153);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(639, 191);
+            groupBox2.Size = new Size(985, 397);
             groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "Danh Sách Hãng Xe";
@@ -169,12 +194,8 @@
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersVisible = false;
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(633, 165);
+            dataGridView1.Size = new Size(979, 371);
             dataGridView1.TabIndex = 0;
-            // 
-            // hangXeBindingSource
-            // 
-            hangXeBindingSource.DataSource = typeof(Data.HangXe);
             // 
             // iDDataGridViewTextBoxColumn
             // 
@@ -191,16 +212,21 @@
             tenHXDataGridViewTextBoxColumn.MinimumWidth = 6;
             tenHXDataGridViewTextBoxColumn.Name = "tenHXDataGridViewTextBoxColumn";
             // 
+            // hangXeBindingSource
+            // 
+            hangXeBindingSource.DataSource = typeof(Data.HangXe);
+            // 
             // frmHangXe
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(663, 363);
+            ClientSize = new Size(982, 553);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "frmHangXe";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "HangXe";
+            Load += frmHangXe_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             groupBox2.ResumeLayout(false);
@@ -225,5 +251,7 @@
         private BindingSource hangXeBindingSource;
         private DataGridViewTextBoxColumn iDDataGridViewTextBoxColumn;
         private DataGridViewTextBoxColumn tenHXDataGridViewTextBoxColumn;
+        private Button btnNhap;
+        private Button btnXuat;
     }
 }

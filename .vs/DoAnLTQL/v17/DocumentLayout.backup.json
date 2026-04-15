@@ -1,26 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\migrations\\20260302051806_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\migrations\\20260302051806_khoitaocsdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Dai Hoc\\do an NET\\DoAnLTQL\\quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmdoimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmdoimatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\dai hoc\\do an net\\doanltql\\quanlybantragopxehonda\\data\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmloaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmloaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmhopdong_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmhopdong_chitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\reports\\rptthongkedoanhthu.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\forms\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\forms\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\reports\\qlbxdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\reports\\qlbxdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|c:\\users\\acer\\downloads\\doanltql_hoanthanh_buoi06\\doanltql_buoi05\\quanlybantragopxehonda\\data\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\data\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\quanlybantragopxehonda\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9A93A8-0E5F-4D7C-AD49-BC6CE18D1274}|QuanLyBanTraGopXeHonda\\QuanLyBanTraGopXeHonda.csproj|solutionrelative:quanlybantragopxehonda\\reports\\frmthongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +82,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:18:55.503Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmdoimatkhau.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.Designer.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:50:20.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmdoimatkhau.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:50:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmdoimatkhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmdoimatkhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:50:13.177Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -54,67 +157,165 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260302051806_KhoiTaoCSDL.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Migrations\\20260302051806_KhoiTaoCSDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T05:18:07.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Xe.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Data\\Xe.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T05:11:15.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmSanPham.cs [Design]",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:59:21.075Z",
+              "WhenOpened": "2026-04-08T08:44:12.442Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmSanPham.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmSanPham.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAAAK8AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs*",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs*",
+              "ViewState": "AgIAABABAAAAAAAAAAAcwDMBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:58:18.01Z",
+              "WhenOpened": "2026-04-08T08:26:29.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Program.cs",
-              "ToolTip": "C:\\Dai Hoc\\do an NET\\DoAnLTQL\\QuanLyBanTraGopXeHonda\\Program.cs",
-              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA+wBIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "frmLoaiXe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmLoaiXe.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmLoaiXe.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmLoaiXe.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmLoaiXe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:56:56.804Z",
+              "WhenOpened": "2026-04-08T08:44:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:43:55.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmHopDong_ChiTiet.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong_ChiTiet.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong_ChiTiet.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong_ChiTiet.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong_ChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:43:53.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:43:49.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHangXe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHangXe.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmHangXe.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHangXe.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmHangXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:43:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.Designer.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.Designer.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAUwOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:26:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rptThongKeDoanhThu.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\rptThongKeDoanhThu.rdlc",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Reports\\rptThongKeDoanhThu.rdlc",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\rptThongKeDoanhThu.rdlc [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Reports\\rptThongKeDoanhThu.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-04-08T07:44:18.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmHopDong.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmHopDong.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAUwLwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:53:11.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:10:12.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QLBXDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\QLBXDataSet.xsd",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Reports\\QLBXDataSet.xsd",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\QLBXDataSet.xsd",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Reports\\QLBXDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-04-08T08:02:55.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmThongKeDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:20:16.021Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\DoAnLTQL_HoanThanh_Buoi06\\DoAnLTQL_Buoi05\\QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "RelativeToolTip": "QuanLyBanTraGopXeHonda\\Reports\\frmThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T07:44:13.693Z"
             }
           ]
         }

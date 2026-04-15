@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hướng dẫn sử dụng – Quản lý bán trả góp xe Honda</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 15px;
+      color: #222;
+      background: #f5f7fa;
+    }
+    /* ── Sidebar ─────────────────────────────────────────── */
+    nav {
+      position: fixed;
+      top: 0; left: 0;
+      width: 240px; height: 100vh;
+      background: #1a3a5c;
+      color: #cde;
+      overflow-y: auto;
+      padding: 20px 0;
+    }
+    nav .logo {
+      text-align: center;
+      padding: 0 16px 20px;
+      border-bottom: 1px solid #2e5580;
+    }
+    nav .logo h2 { font-size: 14px; color: #fff; line-height: 1.4; }
+    nav ul { list-style: none; padding: 12px 0; }
+    nav ul li a {
+      display: block;
+      padding: 9px 20px;
+      color: #adc8e8;
+      text-decoration: none;
+      font-size: 13.5px;
+      transition: background .15s;
+    }
+    nav ul li a:hover,
+    nav ul li a.active { background: #2e5580; color: #fff; }
+    nav ul li.section-title {
+      padding: 14px 20px 4px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: #5d8ab0;
+    }
+    /* ── Main content ────────────────────────────────────── */
+    main {
+      margin-left: 240px;
+      padding: 40px 48px;
+      max-width: 900px;
+    }
+    h1 { font-size: 26px; color: #1a3a5c; margin-bottom: 6px; }
+    .subtitle { color: #666; margin-bottom: 36px; font-size: 14px; }
+    h2 {
+      font-size: 19px; color: #1a3a5c;
+      margin: 40px 0 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid #d0dce8;
+    }
+    h3 { font-size: 15px; color: #2e5580; margin: 20px 0 8px; }
+    p { line-height: 1.7; margin-bottom: 10px; color: #333; }
+    ul, ol { padding-left: 22px; margin-bottom: 12px; }
+    li { line-height: 1.8; }
+    code {
+      background: #e8eef5; color: #c0392b;
+      padding: 1px 5px; border-radius: 3px;
+      font-size: 13px;
+    }
+    .note {
+      background: #fff8e1; border-left: 4px solid #f0a500;
+      padding: 10px 14px; border-radius: 4px;
+      margin: 12px 0; font-size: 14px; color: #555;
+    }
+    table {
+      width: 100%; border-collapse: collapse;
+      margin: 14px 0; font-size: 14px;
+    }
+    th { background: #1a3a5c; color: #fff; padding: 9px 12px; text-align: left; }
+    td { padding: 8px 12px; border-bottom: 1px solid #dde4ee; }
+    tr:nth-child(even) td { background: #f0f4f9; }
+    footer {
+      margin-left: 240px;
+      padding: 20px 48px;
+      font-size: 13px;
+      color: #999;
+      border-top: 1px solid #dde4ee;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Sidebar ── -->
+<nav>
+  <div class="logo">
+    <h2>Quản lý bán trả góp<br>xe Honda</h2>
+  </div>
+  <ul>
+    <li class="section-title">Tổng quan</li>
+    <li><a href="#gioi-thieu" class="active">Giới thiệu</a></li>
+    <li><a href="#yeu-cau">Yêu cầu hệ thống</a></li>
+
+    <li class="section-title">Hệ thống</li>
+    <li><a href="#dang-nhap">Đăng nhập / Đăng xuất</a></li>
+    <li><a href="#doi-mat-khau">Đổi mật khẩu</a></li>
+
+    <li class="section-title">Quản lý danh mục</li>
+    <li><a href="#loai-xe">Loại xe</a></li>
+    <li><a href="#hang-xe">Hãng xe</a></li>
+    <li><a href="#xe">Sản phẩm (Xe)</a></li>
+    <li><a href="#khach-hang">Khách hàng</a></li>
+    <li><a href="#nhan-vien">Nhân viên</a></li>
+
+    <li class="section-title">Nghiệp vụ</li>
+    <li><a href="#hop-dong">Hợp đồng bán hàng</a></li>
+    <li><a href="#in-hop-dong">In hợp đồng</a></li>
+
+    <li class="section-title">Báo cáo</li>
+    <li><a href="#thong-ke-xe">Thống kê sản phẩm</a></li>
+    <li><a href="#thong-ke-doanh-thu">Thống kê doanh thu</a></li>
+  </ul>
+</nav>
+
+<!-- ── Main content ── -->
+<main>
+
+  <!-- Giới thiệu -->
+  <section id="gioi-thieu">
+    <h1>Hướng dẫn sử dụng</h1>
+    <p class="subtitle">Phần mềm Quản lý bán trả góp xe Honda – Phiên bản 1.0</p>
+    <p>
+      Phần mềm giúp quản lý toàn bộ quy trình bán xe trả góp: từ quản lý danh mục
+      (loại xe, hãng xe, xe, khách hàng, nhân viên) đến lập hợp đồng, in hợp đồng
+      và thống kê doanh thu theo thời gian.
+    </p>
+  </section>
+
+  <!-- Yêu cầu -->
+  <section id="yeu-cau">
+    <h2>Yêu cầu hệ thống</h2>
+    <table>
+      <tr><th>Thành phần</th><th>Yêu cầu tối thiểu</th></tr>
+      <tr><td>Hệ điều hành</td><td>Windows 10 / 11 (64-bit)</td></tr>
+      <tr><td>.NET Runtime</td><td>.NET 9.0 Windows Desktop Runtime</td></tr>
+      <tr><td>SQL Server</td><td>SQL Server Express 2019 trở lên</td></tr>
+      <tr><td>RAM</td><td>4 GB</td></tr>
+      <tr><td>Ổ đĩa</td><td>200 MB trống</td></tr>
+    </table>
+  </section>
+
+  <!-- Đăng nhập -->
+  <section id="dang-nhap">
+    <h2>Đăng nhập / Đăng xuất</h2>
+    <p>Khi khởi động phần mềm, cửa sổ <strong>Đăng nhập</strong> tự động xuất hiện.</p>
+    <ol>
+      <li>Nhập <strong>Tên đăng nhập</strong> và <strong>Mật khẩu</strong>.</li>
+      <li>Nhấn <strong>OK</strong> để đăng nhập.</li>
+      <li>Hệ thống tự phân quyền: <em>Quản lý</em> hoặc <em>Nhân viên</em>.</li>
+    </ol>
+    <p>Để đăng xuất, vào menu <code>Hệ thống → Đăng xuất</code>.</p>
+    <div class="note">
+      ⚠ Nhân viên không có quyền truy cập các danh mục: Loại xe, Hãng xe, Xe, Nhân viên.
+    </div>
+  </section>
+
+  <!-- Đổi mật khẩu -->
+  <section id="doi-mat-khau">
+    <h2>Đổi mật khẩu</h2>
+    <p>Vào menu <code>Hệ thống → Đổi mật khẩu...</code>, nhập mật khẩu cũ và mật khẩu mới, xác nhận rồi nhấn <strong>Lưu</strong>.</p>
+  </section>
+
+  <!-- Loại xe -->
+  <section id="loai-xe">
+    <h2>Quản lý Loại xe</h2>
+    <p>Vào menu <code>Quản lý → Loại xe...</code></p>
+    <table>
+      <tr><th>Thao tác</th><th>Mô tả</th></tr>
+      <tr><td>Thêm</td><td>Nhập tên loại xe, nhấn <strong>Lưu</strong>.</td></tr>
+      <tr><td>Sửa</td><td>Chọn dòng cần sửa, chỉnh thông tin, nhấn <strong>Lưu</strong>.</td></tr>
+      <tr><td>Xóa</td><td>Chọn dòng, nhấn <strong>Xóa</strong>. Xác nhận trong hộp thoại.</td></tr>
+    </table>
+  </section>
+
+  <!-- Hãng xe -->
+  <section id="hang-xe">
+    <h2>Quản lý Hãng xe</h2>
+    <p>Vào menu <code>Quản lý → Hãng xe...</code>. Thao tác tương tự Loại xe.</p>
+  </section>
+
+  <!-- Xe -->
+  <section id="xe">
+    <h2>Quản lý Sản phẩm (Xe)</h2>
+    <p>Vào menu <code>Quản lý → Sản phẩm (Xe)...</code></p>
+    <p>Mỗi xe bao gồm: Loại xe, Hãng xe, Tên xe, Giá bán, Số lượng, Hình ảnh, Mô tả.</p>
+  </section>
+
+  <!-- Khách hàng -->
+  <section id="khach-hang">
+    <h2>Quản lý Khách hàng</h2>
+    <p>Vào menu <code>Quản lý → Khách hàng...</code></p>
+    <p>Lưu thông tin: Họ và tên, Địa chỉ, Số điện thoại, Email.</p>
+  </section>
+
+  <!-- Nhân viên -->
+  <section id="nhan-vien">
+    <h2>Quản lý Nhân viên</h2>
+    <p>Vào menu <code>Quản lý → Nhân viên...</code> (chỉ Quản lý).</p>
+    <p>Lưu thông tin: Họ và tên, Tên đăng nhập, Mật khẩu (mã hóa BCrypt), Quyền hạn.</p>
+  </section>
+
+  <!-- Hợp đồng -->
+  <section id="hop-dong">
+    <h2>Hợp đồng bán hàng</h2>
+    <p>Vào menu <code>Quản lý → Hợp đồng bán hàng...</code></p>
+    <h3>Lập hợp đồng mới</h3>
+    <ol>
+      <li>Nhấn <strong>Lập hợp đồng mới...</strong></li>
+      <li>Chọn Khách hàng, Nhân viên, Xe.</li>
+      <li>Thêm từng kỳ thanh toán (Ngày, Số tháng, Tiền/tháng).</li>
+      <li>Nhấn <strong>Lưu</strong> để xác nhận.</li>
+    </ol>
+    <h3>Sửa / Xóa hợp đồng</h3>
+    <p>Chọn dòng hợp đồng, nhấn <strong>Sửa...</strong> hoặc <strong>Xóa</strong>.</p>
+    <h3>Xuất Excel</h3>
+    <p>Nhấn <strong>Xuất Excel...</strong> để xuất danh sách hợp đồng và chi tiết ra file <code>.xlsx</code>.</p>
+  </section>
+
+  <!-- In hợp đồng -->
+  <section id="in-hop-dong">
+    <h2>In hợp đồng</h2>
+    <ol>
+      <li>Trong màn hình Hợp đồng, chọn hợp đồng cần in.</li>
+      <li>Nhấn <strong>In hợp đồng...</strong></li>
+      <li>Cửa sổ xem trước xuất hiện với đầy đủ thông tin người mua, người bán và bảng thanh toán.</li>
+      <li>Nhấn biểu tượng máy in trên toolbar của ReportViewer để in.</li>
+    </ol>
+  </section>
+
+  <!-- Thống kê xe -->
+  <section id="thong-ke-xe">
+    <h2>Thống kê sản phẩm</h2>
+    <p>Vào menu <code>Báo cáo – Thống kê → Thống kê sản phẩm...</code></p>
+    <p>Lọc theo <strong>Hãng xe</strong> và/hoặc <strong>Loại xe</strong>, nhấn <strong>Lọc kết quả</strong>.</p>
+    <p>Nhấn <strong>Hiện tất cả</strong> để bỏ lọc.</p>
+  </section>
+
+  <!-- Thống kê doanh thu -->
+  <section id="thong-ke-doanh-thu">
+    <h2>Thống kê doanh thu</h2>
+    <p>Vào menu <code>Báo cáo – Thống kê → Thống kê doanh thu...</code></p>
+    <p>Chọn <strong>Từ ngày</strong> và <strong>Đến ngày</strong>, nhấn <strong>Lọc kết quả</strong>.</p>
+    <p>Nhấn <strong>Hiện tất cả</strong> để xem toàn bộ doanh thu.</p>
+    <div class="note">
+      💡 Tổng tiền được tính bằng: <code>Số tháng × Tiền/tháng</code> của từng kỳ thanh toán.
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  © 2024 FIT – AGU &nbsp;|&nbsp; Quản lý bán trả góp xe Honda v1.0
+</footer>
+
+<script>
+  // Highlight active nav link on scroll
+  const sections = document.querySelectorAll("section[id]");
+  const links    = document.querySelectorAll("nav a");
+  window.addEventListener("scroll", () => {
+    let cur = "";
+    sections.forEach(s => { if (window.scrollY >= s.offsetTop - 60) cur = s.id; });
+    links.forEach(a => {
+      a.classList.toggle("active", a.getAttribute("href") === "#" + cur);
+    });
+  });
+  links.forEach(a => {
+    a.addEventListener("click", e => {
+      e.preventDefault();
+      document.querySelector(a.getAttribute("href"))
+              .scrollIntoView({ behavior: "smooth" });
+    });
+  });
+</script>
+</body>
+</html>

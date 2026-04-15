@@ -17,7 +17,7 @@ namespace QuanLyBanTraGopXeHonda.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.23")
+                .HasAnnotation("ProductVersion", "9.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -64,6 +64,8 @@ namespace QuanLyBanTraGopXeHonda.Migrations
                     b.HasIndex("KhachHangID");
 
                     b.HasIndex("NhanVienID");
+
+                    b.HasIndex("XeID");
 
                     b.ToTable("HopDongs");
                 });
@@ -230,9 +232,17 @@ namespace QuanLyBanTraGopXeHonda.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("QuanLyBanTraGopXeHonda.Data.Xe", "Xe")
+                        .WithMany()
+                        .HasForeignKey("XeID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("KhachHang");
 
                     b.Navigation("NhanVien");
+
+                    b.Navigation("Xe");
                 });
 
             modelBuilder.Entity("QuanLyBanTraGopXeHonda.Data.HopDong_ChiTiet", b =>
